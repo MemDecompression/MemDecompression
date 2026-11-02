@@ -1,2 +1,2 @@
 
-`C++` · `Python` · `PowerShell` ·
+`C++` · `Python` · `PowerShell` 
