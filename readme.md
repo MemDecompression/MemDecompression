@@ -2,5 +2,7 @@
 fun of [INFINITE NIGHTMARE](https://github.com/MSNightmare)
 
 
-`C++` · `Python` · `PowerShell` 
+`C++` · `Python` · `PowerShell`
 
+
+Let's keep it simple
