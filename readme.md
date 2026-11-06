@@ -1,5 +1,5 @@
 
-fun of [INFINITE NIGHTMARE](https://github.com/MSNightmare)
+fun of [NightmareEslipse](https://github.com/MSNightmare)
 
 
 `C++` · `Python` · `PowerShell`
